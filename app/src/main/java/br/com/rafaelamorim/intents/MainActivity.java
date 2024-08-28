@@ -22,8 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
         // Criando uma Intent com a ação ACTION_VIEW
         Intent intent = new Intent(Intent.ACTION_VIEW, uri);
-
-        // Verificando se há um navegador disponível para lidar com a Intent
         startActivity(intent);
     }
 

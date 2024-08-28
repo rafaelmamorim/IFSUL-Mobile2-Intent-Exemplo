@@ -4,7 +4,7 @@
     </a>
 </p>
 
-# Exemplo de uso do Intent
+# Exemplo de uso de Intent
 
 Repositório criado para mostrar uma aplicação simples usando Intent na disciplina de
 Desenvolvimento Mobile II, do curso de Tecnólogo em Analise e Desenvolvimento de Sistemas do

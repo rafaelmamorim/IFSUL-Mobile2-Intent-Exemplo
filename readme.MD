@@ -134,6 +134,6 @@ suportem a ação (por exemplo, navegador para `ACTION_VIEW`, app de e-mail para
 
 ## Screenshot
 
-```
-![Screenshot da App](app/src/main/res/drawable/screenshot.png)
-```
+<p align="center">
+    <img src="image.png" width="350">
+</p>
